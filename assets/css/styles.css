@@ -3,14 +3,14 @@
 /* variable */
 :root{
     --font-family: 'Source Sans Pro', sans-serif;
-    --normal-font: 400;
-    --bold-font: 700;
-    --bolder-font: 900;
+    
+
     --bg-color: #fcfcfc;
     --primary-color: #088446;
     --secondary-color: #ff7957;
     --primary-shadow: #8bafa2;
     --secondary-shadow: #a17a69;
+
     --bottom-margin: 0.5rem;
     --bottom-margin-2: 1rem;
     --line-height: 1.7rem;
