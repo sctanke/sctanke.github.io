@@ -7,16 +7,16 @@
     --bold-font: 700;
     --bolder-font: 900;
 
-    --bg-color: #fcfcfc;
-    --primary-color: #397557;
-    --secondary-color: #ff7957;
-    --primary-shadow: #8bafa2;
-    --secondary-shadow: #a17a69;
+    --bg-color: rgb(31, 31, 31);
+    --primary-color: #66d79e;
+    --secondary-color: #ff8465;
+    --primary-shadow: #396e5b;
+    --secondary-shadow: #6d6d6d;
 
     --bottom-margin: 0.5rem;
     --bottom-margin-2: 1rem;
     --line-height: 1.7rem;
-    --transition: 0.3s;
+    --transition: 0.2s;
 } 
 html {
     scroll-behavior: smooth;
