@@ -8,12 +8,12 @@
     --bolder-font: 900;
 
     --bg-color: #121212;
-    --elavated-color:#1d1d1d;
+    --elavated-color:#1e1e1e;
     --text-color: rgb(234, 234, 234);
     --primary-color: #A0D995;
     --secondary-color: #ff977d;
     --primary-shadow: #ff0000;
-    --secondary-shadow: #ee00ff;
+    --secondary-shadow: #ff0000;
 
     --bottom-margin: 0.5rem;
     --bottom-margin-2: 1rem;
@@ -116,7 +116,7 @@ nav ul li {
     width: 25rem;
     padding: 0.625rem;
     border-radius: 6px;
-    /* box-shadow: 0px 2px 15px 2px var(--primary-shadow); */
+    color:#1e1e1e;
   }
   
   .bio h1 {
