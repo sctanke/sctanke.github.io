@@ -116,7 +116,7 @@ nav ul li {
     width: 25rem;
     padding: 0.625rem;
     border-radius: 6px;
-    background-color: #1e1e1e;
+    background-color: #ff0000;
   }
   
   .bio h1 {
@@ -166,6 +166,13 @@ nav ul li {
   .icon {
     width: 11rem;
     height: 11rem;
+  }
+
+  .icon-card {
+    background-color: #1e1e1e;
+    border-radius: 11px;
+    padding: 20px;
+    margin: 10px;
   }
   /* Skills section ends */
   
