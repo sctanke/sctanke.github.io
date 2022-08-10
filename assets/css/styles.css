@@ -126,17 +126,15 @@ nav ul li {
   }
   
   .bio h1 {
-    color:var(--text-color)
     margin-bottom: var(--bottom-margin);
-    
+    color:var(--text-color);
     
   }
   
   .bio p {
-    color:var(--text-color)
     line-height: var(--line-height);
     padding: 0.3rem 0;
-    
+    color:var(--text-color);
   }
   /* Hero section ends */
   
