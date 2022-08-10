@@ -121,12 +121,13 @@ nav ul li {
     width: 25rem;
     padding: 0.625rem;
     border-radius: 6px;
-    
+    text-decoration-color: #121212;
     
   }
   
   .bio h1 {
     margin-bottom: var(--bottom-margin);
+    
   }
   
   .bio p {
