@@ -51,6 +51,10 @@ html {
     color: var(--text-color);
   } 
 
+  .alert {
+    background-color: #ff9800;
+    padding: 10px;
+  }
 
   /* Navbar */
 nav {
