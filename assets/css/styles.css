@@ -142,7 +142,7 @@ nav ul li {
   /* More about ends */
   
   
-  /* Skills section 
+  /* Skills section */
   .skills {
     max-width: 68.75rem;
     margin: auto;
@@ -164,7 +164,7 @@ nav ul li {
   }
   /* Skills section ends */
   
-  /* Projects section 
+  /* Projects section */
   .projects {
     background-color: var(--bg-color);
     padding: 32px 0;
@@ -207,7 +207,7 @@ nav ul li {
   
   /* Projects section ends */
   
-  /* Contacts section 
+  /* Contacts section */
   .contact {
     margin-top: 2rem;
   }
@@ -271,7 +271,7 @@ nav ul li {
   }
   /* Contacts section ends */
   
-  /* Social buttons 
+  /* Social buttons */
   .socials {
     display: flex;
     flex-direction: column;
@@ -286,7 +286,7 @@ nav ul li {
   }
   /* Social button ends */
   
-  /* Scroll to top button 
+  /* Scroll to top button */
   .scroll-up {
     position: fixed;
     right: 0.5%;
@@ -309,7 +309,7 @@ nav ul li {
   }
   /* Footer section ends */
   
-  /* General (utilities) 
+  /* General (utilities) */
   .icon-card {
     background-color: #fff;
     border-radius: 11px;
@@ -326,7 +326,7 @@ nav ul li {
     margin: 10px;
   }
   
-  /* Media queries for responsiveness 
+  /* Media queries for responsiveness */
   @media screen and (max-width: 720px) {
     nav {
       padding: 1.5rem 1rem;
