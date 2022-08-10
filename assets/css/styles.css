@@ -127,14 +127,14 @@ nav ul li {
   
   .bio h1 {
     margin-bottom: var(--bottom-margin);
-    color:var(--text-color);
+    color:var(--elavated-color);
     
   }
   
   .bio p {
     line-height: var(--line-height);
     padding: 0.3rem 0;
-    color:var(--text-color);
+    color:var(--elavated-color);
   }
   /* Hero section ends */
   
@@ -186,7 +186,7 @@ nav ul li {
   
   /* Projects section */
   .projects {
-    background-color: var(--bg-color);
+    background-color: var(--elavated-color);
     padding: 32px 0;
     margin-top: 2rem;
   }
