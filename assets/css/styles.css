@@ -52,7 +52,7 @@ html {
   } 
 
   .alert {
-    background-color: #ff9800;
+    background-color: #de8500;
     padding: 10px;
   }
 
@@ -121,18 +121,20 @@ nav ul li {
     width: 25rem;
     padding: 0.625rem;
     border-radius: 6px;
-    text-decoration-color: #121212;
+
     
   }
   
   .bio h1 {
     margin-bottom: var(--bottom-margin);
+    color:var(--text-color)
     
   }
   
   .bio p {
     line-height: var(--line-height);
     padding: 0.3rem 0;
+    color:var(--text-color)
   }
   /* Hero section ends */
   
