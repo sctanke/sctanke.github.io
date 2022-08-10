@@ -7,12 +7,13 @@
     --bold-font: 700;
     --bolder-font: 900;
 
-    --bg-color: rgb(55, 55, 55);
-    --text-color: rgb(238, 238, 238);
-    --primary-color: #66d79e;
-    --secondary-color: #ff8465;
-    --primary-shadow: #396e5b;
-    --secondary-shadow: #6d6d6d;
+    --bg-color: #121212;
+    --elavated-color:#1d1d1d;
+    --text-color: rgb(234, 234, 234);
+    --primary-color: #A0D995;
+    --secondary-color: #ff977d;
+    --primary-shadow: #ff0000;
+    --secondary-shadow: #ee00ff;
 
     --bottom-margin: 0.5rem;
     --bottom-margin-2: 1rem;
@@ -61,8 +62,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 1.5rem 3.5rem;
-  background-color: var(--bg-color);
-  box-shadow: 0 3px 5px rgba(96, 255, 170, 0.208);
+  background-color: var(--elavated-color);
 }
 
 nav h1 {
@@ -96,6 +96,7 @@ nav ul li {
   display: none;
 }
 /* Navbar ends */
+
 /* Hero section */
 .hero {
     display: flex;
@@ -115,7 +116,7 @@ nav ul li {
     width: 25rem;
     padding: 0.625rem;
     border-radius: 6px;
-    box-shadow: 0px 2px 15px 2px var(--primary-shadow);
+    /* box-shadow: 0px 2px 15px 2px var(--primary-shadow); */
   }
   
   .bio h1 {
@@ -130,7 +131,7 @@ nav ul li {
   
   /* More about */
   .more-about {
-    background-color: var(--bg-color);
+   /* background-color: var(--bg-color); */
     padding: 1rem 6rem;
   }
   
