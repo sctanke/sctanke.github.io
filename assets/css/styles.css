@@ -127,14 +127,14 @@ nav ul li {
   
   .bio h1 {
     margin-bottom: var(--bottom-margin);
-    color:var(--elavated-color);
+    color:var(--bg-color);
     
   }
   
   .bio p {
     line-height: var(--line-height);
     padding: 0.3rem 0;
-    color:var(--elavated-color);
+    color:var(--bg-color);
   }
   /* Hero section ends */
   
@@ -177,7 +177,7 @@ nav ul li {
   }
 
   .icon-card {
-    background-color: #1e1e1e;
+    background-color: var(--secondary-color);
     border-radius: 11px;
     padding: 20px;
     margin: 10px;
@@ -224,7 +224,13 @@ nav ul li {
   .project-details {
     margin-bottom: var(--bottom-margin);
   }
-  
+
+  .project-card {
+    background-color: var(--elavated-color);
+    border-radius: 11px;
+    padding: 20px;
+    margin: 10px;
+  }
   /* Projects section ends */
   
   /* Contacts section */
