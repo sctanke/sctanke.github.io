@@ -8,6 +8,7 @@
     --bolder-font: 900;
 
     --bg-color: rgb(31, 31, 31);
+    --text-color: rgb(238, 238, 238);
     --primary-color: #66d79e;
     --secondary-color: #ff8465;
     --primary-shadow: #396e5b;
@@ -22,7 +23,8 @@ html {
     scroll-behavior: smooth;
     background-color: var(--bg-color);
      }
-  
+
+
   /* CSS Resets */
   * {
     margin: 0;
@@ -45,6 +47,7 @@ html {
   
   body {
     font-family: var(--font-family);
+    color: var(--text-color);
   } 
 
 
