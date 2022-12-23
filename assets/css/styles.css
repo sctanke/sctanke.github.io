@@ -234,9 +234,7 @@ nav ul li {
   /*#endregion Projects */
   
   /*#region Timeline*/
-  * {
-    box-sizing: border-box;
-  }
+  
   
   
   /* The actual timeline (the vertical ruler) */
