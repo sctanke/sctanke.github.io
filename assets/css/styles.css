@@ -238,10 +238,6 @@ nav ul li {
     box-sizing: border-box;
   }
   
-  /* Set a background color */
-  body {
-    background-color: #474e5d; 
-  }
   
   /* The actual timeline (the vertical ruler) */
   .timeline {
