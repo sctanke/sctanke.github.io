@@ -368,6 +368,9 @@ nav ul li {
 
 
   /* Contacts section */
+  .container{
+    align-items: center;
+  }
   
   /* Social buttons? */
   
